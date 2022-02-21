@@ -68,8 +68,10 @@ li {
 }
 
 .tabright img {
-    width: 30vw;
+    max-width: 30vw;
     height: auto;
+    object-fit: cover;
+    margin-left: 50px;
 }
 
 .tab1 {
